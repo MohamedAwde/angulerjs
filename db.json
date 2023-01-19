@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": "4a6ad54d-956d-4e8d-a03a-0565c1e58c08",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Ergonomic Rubber Salad",
+      "mainPrice": "823.00",
+      "discountPrice": "866.00"
+    },
+    {
+      "id": "e4f3804e-b5a4-443c-a9a9-97794839d1db",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Practical Soft Mouse",
+      "mainPrice": "846.00",
+      "discountPrice": "212.00"
+    },
+    {
+      "id": "a332abdf-a9bf-4389-b02b-8fc31b9d2423",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Recycled Soft Mouse",
+      "mainPrice": "103.00",
+      "discountPrice": "213.00"
+    },
+    {
+      "id": "3becfa34-61af-4fc7-94ec-ad98842d0449",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Tasty Steel Table",
+      "mainPrice": "760.00",
+      "discountPrice": "387.00"
+    },
+    {
+      "id": "4cdaec56-04ff-4849-a8d1-b9df77c49c03",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Fantastic Plastic Salad",
+      "mainPrice": "818.00",
+      "discountPrice": "261.00"
+    },
+    {
+      "id": "0920f969-5a5b-4bc9-a00b-234e6702b8fe",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Unbranded Plastic Sausages",
+      "mainPrice": "490.00",
+      "discountPrice": "213.00"
+    },
+    {
+      "id": "d87fa6bb-bc62-4990-9dac-7eb5c8e97ce3",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Ergonomic Bronze Car",
+      "mainPrice": "208.00",
+      "discountPrice": "857.00"
+    },
+    {
+      "id": "62148ec5-f904-4a58-8366-e4a8e8e94865",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Handmade Bronze Chicken",
+      "mainPrice": "443.00",
+      "discountPrice": "507.00"
+    },
+    {
+      "id": "371b9851-46aa-4e4b-813f-1d764b8fdcb3",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Bespoke Fresh Computer",
+      "mainPrice": "906.00",
+      "discountPrice": "699.00"
+    },
+    {
+      "id": "f54304ba-56e4-4b0a-8452-dd8e47c256c5",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Modern Concrete Towels",
+      "mainPrice": "903.00",
+      "discountPrice": "504.00"
+    },
+    {
+      "id": "ac86a5f8-bac0-4180-b417-743a1a389389",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Sleek Fresh Bike",
+      "mainPrice": "97.00",
+      "discountPrice": "330.00"
+    },
+    {
+      "id": "e979243d-27fd-4d67-b96f-ea90745665a4",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Practical Cotton Salad",
+      "mainPrice": "188.00",
+      "discountPrice": "433.00"
+    },
+    {
+      "id": "bc91a4d7-cb9d-4837-b759-53e7a0840091",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Incredible Concrete Computer",
+      "mainPrice": "242.00",
+      "discountPrice": "599.00"
+    },
+    {
+      "id": "a7c4e08c-a4af-4097-9a63-a02c214edfd9",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Awesome Granite Bacon",
+      "mainPrice": "720.00",
+      "discountPrice": "886.00"
+    },
+    {
+      "id": "449b61f4-75e3-47cf-bb3f-4c55f14d667c",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Gorgeous Concrete Towels",
+      "mainPrice": "178.00",
+      "discountPrice": "630.00"
+    },
+    {
+      "id": "bc23df80-b247-40ca-b688-638d69d72954",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Tasty Plastic Hat",
+      "mainPrice": "10.00",
+      "discountPrice": "390.00"
+    }
+  ],
+  "cart": [],
+  "users": []
+}
